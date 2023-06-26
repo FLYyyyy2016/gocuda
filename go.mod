@@ -1,6 +1,6 @@
 module gitlab.senseauto.com/mec-dev/gocuda
 
-go 1.20
+go 1.18
 
 require gorgonia.org/cu v0.9.4
 
