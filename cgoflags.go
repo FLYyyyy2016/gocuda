@@ -2,7 +2,6 @@ package gocuda
 
 // This file provides CGO flags to find CUDA libraries and headers.
 
-//#cgo pkg-config:cuda
 //#cgo LDFLAGS:-lcuda
 //
 ////default location:
