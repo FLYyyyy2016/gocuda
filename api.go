@@ -1,7 +1,6 @@
 package gocuda
 
 // #include <cuda.h>
-// #cgo pkg-config:cuda
 import "C"
 import "gorgonia.org/cu"
 
